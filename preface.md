@@ -43,7 +43,7 @@
  - 7.1 [概述](7.1.md)
  - 7.2 [SpringPlugin](7.2.md)
  - 7.3 [IocInterceptor 使用示例](7.3.md)
- * 8.[SpringPlugin](8.md)
+* 8.[SpringPlugin](8.md)
  - 8.1 [概述](8.1.md)
  - 8.2 [Validator](8.2.md)
  - 8.3 [Validator 配置](8.3.md)
